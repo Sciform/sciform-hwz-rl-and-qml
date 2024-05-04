@@ -1,0 +1,3 @@
+vowpal-wabbit-next
+pandas
+matplotlib
