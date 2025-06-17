@@ -1,3 +1,11 @@
 vowpal-wabbit-next
 pandas
 matplotlib
+qiskit
+qiskit[visualization]
+qiskit_aer
+'qiskit>=1.0,<2.0'
+qiskit[visualization] 'qiskit>=1.0,<2.0'
+qiskit-machine-learning==0.8.2
+nlopt
+pylatexenc
